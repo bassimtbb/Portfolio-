@@ -30,9 +30,11 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "./node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "src/styles.scss",
+              "./node_modules/aos/dist/aos.css"
             ],
-            "scripts": []
+            "scripts": ["./node_modules/bootstrap/dist/js/bootstrap.bundle.min.js","./node_modules/aos/dist/aos.js","./node_modules/@emailjs/browser/dist/email.js"]
           },
           "configurations": {
             "production": {

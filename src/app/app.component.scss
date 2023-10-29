@@ -1,0 +1,28 @@
+
+.container{
+    width: 200%;
+    margin: 0%;
+    padding: 0%;
+}
+.header{
+    margin: 0%;
+    height: 0%;
+}
+.sidenav{
+    height:  100%;
+    width: 50%;    
+    z-index: 7;
+    position: fixed;
+    right:0;
+    bottom: 0;
+    background-color: transparent;
+    opacity: 2;
+    backdrop-filter: blur(30px);
+    box-shadow: 12px 4px 0 hsla(228, 15%, 8%, .4);
+padding: 0%;
+}
+.about{
+    width: 100%;
+    margin: 0%;
+    padding: 0%;
+}
