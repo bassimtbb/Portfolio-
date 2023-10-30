@@ -52,6 +52,6 @@ public sendEmail(e: Event) {
       });
   }
 }
-projects=['https://github.com/bassimtbb/ConnecMe.git','https://github.com/bassimtbb/ConnecMe.git'];
+projects=['https://github.com/bassimtbb/Portfolio-.git','https://github.com/bassimtbb/ConnectMe.git'];
 
 }
